@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-28T19:27:51 EET" name="Default suite" finished-at="2025-05-28T19:28:05 EET" duration-ms="13940">
+    <groups>
+    </groups>
+    <test started-at="2025-05-28T19:27:51 EET" name="Default test" finished-at="2025-05-28T19:28:05 EET" duration-ms="13940">
+      <class name="myTestCases">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:myTestCases@7d20d0b]" started-at="2025-05-28T19:27:51 EET" name="mySetup" finished-at="2025-05-28T19:27:51 EET" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method is-config="true" signature="thisPartStartsBeforeEachTest()[pri:0, instance:myTestCases@7d20d0b]" started-at="2025-05-28T19:27:51 EET" name="thisPartStartsBeforeEachTest" finished-at="2025-05-28T19:28:00 EET" duration-ms="9066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thisPartStartsBeforeEachTest -->
+        <test-method signature="clickOnTwoRandomNumber()[pri:4, instance:myTestCases@7d20d0b]" started-at="2025-05-28T19:28:00 EET" name="clickOnTwoRandomNumber" finished-at="2025-05-28T19:28:05 EET" duration-ms="4835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnTwoRandomNumber -->
+        <test-method is-config="true" signature="AftermyTest()[pri:0, instance:myTestCases@7d20d0b]" started-at="2025-05-28T19:28:05 EET" name="AftermyTest" finished-at="2025-05-28T19:28:05 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AftermyTest -->
+      </class> <!-- myTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
